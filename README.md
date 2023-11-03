@@ -1,1 +1,3 @@
-# jo5629-the_hunt
+# The Hunt
+
+This is very unstable. Install at your own risk.
