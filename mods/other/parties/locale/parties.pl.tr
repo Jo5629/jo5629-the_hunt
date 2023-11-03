@@ -1,0 +1,27 @@
+# version 1.4.0-dev
+# author(s): Szkodnix
+# reviewer(s):
+# textdomain: parties
+
+# api.lua
+[!] Only the party leader can perform this action!=[!] Tylko lider grupy może wykonać tę akcję!
+[!] You can't invite yourself!=[!] Nie możesz zaprosić samego/samej siebie!
+[!] This player is not online!=[!] Ten gracz nie jest online!
+[!] You've already invited this player!=[!] Już zaprosiłeś/aś tego gracza!
+[!] This player is already in a party!=[!] Ten gracz jest już w grupie!
+Invite to @1 successfully sent=Zaproszenie do @1 wysłane pomyślnie
+@1 has invited you to a party, would you like to join? (/party join, or /party join @2)=@1 zaprosił/a cię do grupy, chcesz dołączyć? (/party join, albo /party join @2)
+[!] You have no pending invites!=[!] Nie masz oczekujących zaproszeń!
+[!] You have no pending invites from this player!=[!] Nie masz oczekujących zaproszeń od tego gracza!
+[!] More players have invited you to their party: please specify the nick of the one you want to join!=[!] Więcej graczy zaprosiło cię do swoich grup: podaj nick osoby, do której grupy chcesz dołączyć!
+[!] The party leader has disconnected!=[!] Lider grupy się rozłączył!
+@1 has joined the party=@1 dołączył/a do grupy
+@1 has joined another party=@1 dołączył/a do innej grupy
+You've joined @1's party=Dołączyłeś/aś do grupy @1
+[!] You must enter a party first!=[!] Musisz najpierw dołączyć do grupy!
+The party has been disbanded=Grupa została rozwiązana
+@1 has left the party=@1 opuścił/a grupę
+You've left the party=Opuściłeś/aś grupę
+@1 is the new party leader=Nowym liderem grupy został/a @1
+Party=Grupa
+No answer from @1...=Brak odpowiedzi od @1...

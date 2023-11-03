@@ -1,0 +1,26 @@
+# version 1.3.0-dev
+# author(s): nyomi
+# reviewer(s):
+# textdomain: parties
+# api.lua
+[!] Only the party leader can perform this action!=[!] Ezt az akciót csak a pártvezető hajthatja végre!
+[!] You can't invite yourself!=[!] Nem hívhatod meg magad!
+[!] This player is not online!=[!] Ez a játékos nincs online!
+[!] You've already invited this player!=[!] Már meghívtad ezt a játékost!
+[!] This player is already in a party!=[!] Ez a játékos már buliban van!
+Invite to @1 successfully sent=A @1 meghívója sikeresen elküldve
+@1 has invited you to a party, would you like to join? (/party join, or /party join @2)=@1 meghívott egy buliba, szeretnél csatlakozni? (/party join, vagy /party join @2)
+No answer from @1...=@1-től nincs válasz...
+[!] You have no pending invites!=[!] Nincs várakozo meghívód!
+[!] You have no pending invites from this player!=[!] Nincs várakozó meghívód ettől a Játékostól!
+[!] The party leader has disconnected!=[!] A buli vezetője kilépett!
+@1 has joined the party=@1  csatlakozott a bulihoz
+@1 has joined another party=@1 ist egy másik bulihoz csatlakozott
+You've joined @1's party=Csatlakoztál @1-nek a bulijába
+[!] You must enter a party first!=[!] Be kell lépned egy buliba elöször
+The party has been disbanded=A buli feloszlott
+@1 has left the party=@1 Elhagyta a csapatot
+You've left the party=Elhagytad a bulit
+@1 is the new party leader=@1 Az új vezetője a bulinak
+Party=Buli
+

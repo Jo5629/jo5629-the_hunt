@@ -1,0 +1,27 @@
+# version 1.4.0-dev
+# author(s):
+# reviewer(s):
+# textdomain: parties
+
+# api.lua
+[!] Only the party leader can perform this action!=[!] Solo lə capo gruppo può eseguire quest'azione!
+[!] You can't invite yourself!=[!] Non ci si può invitare da solɜ!
+[!] This player is not online!=[!] Questə giocatorə non è connessə!
+[!] You've already invited this player!=[!] Hai già invitato questə giocatorə!
+[!] This player is already in a party!=[!] Questə giocatorə è già in un gruppo!
+Invite to @1 successfully sent=Invito a @1 inviato con successo
+@1 has invited you to a party, would you like to join? (/party join, or /party join @2)=@1 ti ha invitato in un gruppo, vuoi unirti? (/party join, o /party join @2)
+[!] You have no pending invites!=[!] Non hai nessun invito da accettare!
+[!] You have no pending invites from this player!=[!] Non hai nessun invito da accettare da parte di questə giocatorə!
+[!] More players have invited you in their party: please specify the nick of the one you want to join!=[!] Più giocatorɜ ti hanno invitato in un gruppo: specifica il nome dellə giocatorə al quale ti vuoi unire!
+[!] The party leader has disconnected!=[!] Lə capo gruppo si è disconnessə!
+@1 has joined the party=@1 si è unitə al gruppo
+@1 has joined another party=@1 si è unitə a un altro gruppo
+You've joined @1's party=Ti sei unitə al gruppo di @1
+[!] You must enter a party first!=[!] Devi prima entrare in un gruppo!
+The party has been disbanded=Il gruppo è stato sciolto
+@1 has left the party=@1 è uscitə dal gruppo
+You've left the party=Sei uscitə dal gruppo
+@1 is the new party leader=@1 è lə nuovə capo gruppo
+Party=Gruppo
+No answer from @1...=Nessuna risposta da @1...

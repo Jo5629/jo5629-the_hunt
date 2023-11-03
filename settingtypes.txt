@@ -1,0 +1,5 @@
+#Keybind for the scope on guns.
+hunt_settings.scope_keybind (Scope Keybind) enum RMB jump,right,left,LMB,RMB,sneak,aux1,down,up,zoom,dig,place
+
+#Data saving interval.
+hunt_settings.save_interval (Save Interval) int 6
